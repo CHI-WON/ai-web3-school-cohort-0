@@ -6,7 +6,7 @@
 
 ### Phase 1：AI 基础补强
 - [ ] 大语言模型（LLM）
-- [ ] 提示词（Prompt）
+- [x] 提示词（Prompt）
 - [ ] 上下文（Context）
 - [ ] 检索增强生成（RAG）
 - [ ] 智能体（Agent）
