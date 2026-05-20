@@ -7,9 +7,9 @@
 ### Phase 1：AI 基础补强
 - [ ] 大语言模型（LLM）
 - [x] 提示词（Prompt）
-- [ ] 上下文（Context）
-- [ ] 检索增强生成（RAG）
-- [ ] 智能体（Agent）
+- [x] 上下文（Context）
+- [x] 检索增强生成（RAG）
+- [x] 智能体（Agent）
 - [ ] 框架（Frameworks）
 - [ ] 氛围编程（Vibe Coding）
 - [ ] 模型上下文协议（MCP）
