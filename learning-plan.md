@@ -1,23 +1,24 @@
 # 学习计划
 
 > 初始化于 2026-05-17。根据 Handbook 四大模块逐步推进。
+> 更新于 2026-05-20：Phase 1 全部完成（9 章一天通关）
 
 ## 路线概览
 
-### Phase 1：AI 基础补强
-- [ ] 大语言模型（LLM）
-- [x] 提示词（Prompt）
-- [x] 上下文（Context）
-- [x] 检索增强生成（RAG）
-- [x] 智能体（Agent）
-- [ ] 框架（Frameworks）
-- [ ] 氛围编程（Vibe Coding）
-- [ ] 模型上下文协议（MCP）
-- [ ] 评估（Evaluation）
-- [ ] 微调（Fine-tuning）
-- [ ] 推理服务（Inference）
+### Phase 1：AI 基础补强 ✅ 完成于 5/20
+- [x] 大语言模型（LLM） — 5/18
+- [x] 提示词（Prompt） — 5/19
+- [x] 上下文（Context） — 5/20
+- [x] 检索增强生成（RAG） — 5/20
+- [x] 智能体（Agent） — 5/20
+- [x] 框架（Frameworks） — 5/20
+- [x] 氛围编程（Vibe Coding） — 5/20
+- [x] 模型上下文协议（MCP） — 5/20
+- [x] 评估（Evaluation） — 5/20
+- [x] 微调（Fine-tuning） — 5/20
+- [x] 推理服务（Inference） — 5/20
 
-### Phase 2：Web3 基础补强
+### Phase 2：Web3 基础补强 🔜
 - [ ] 密码学（Cryptography）
 - [ ] 钱包（Wallet）
 - [ ] 智能合约（Smart Contract）
@@ -61,3 +62,4 @@
 - 每天记录 daily note
 - 遇到问题写入 handbook-feedback
 - 实验代码放 experiments/
+- **Phase 2 重点**：Smart Contract + Security 给 2 天，其余合并
